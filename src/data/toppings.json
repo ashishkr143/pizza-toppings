@@ -1,0 +1,38 @@
+[
+    {
+      "id" : 1,
+      "name" : "Pepperoni",
+      "price" : 3.5,
+      "image" : "/some_url_from_backend"
+    },
+    {
+      "id" : 2,
+      "name" : "Feta",
+      "price" : 2.5,
+      "image" : "/some_url_from_backend"
+    },
+    {
+      "id" : 3,
+      "name" : "Spices",
+      "price" : 0.5,
+      "image" : "/some_url_from_backend"
+    },
+    {
+      "id" : 4,
+      "name" : "Swiss cheese",
+      "price" : 3,
+      "image" : "/some_url_from_backend"
+    },
+    {
+      "id" : 5,
+      "name" : "Cold cuts",
+      "price" : 5,
+      "image" : "/some_url_from_backend"
+    },
+    {
+      "id" : 6,
+      "name" : "Mozzarella",
+      "price" : 1.5,
+      "image" : "/some_url_from_backend"
+    }
+  ]
